@@ -1,4 +1,4 @@
-# Emotion Detection Model
+# Emotion Detector
 
 This project uses a Convolutional Neural Network (CNN) to perform emotion recognition on images. The model is built using TensorFlow and Keras and includes data preprocessing, model training, and evaluation.
 
